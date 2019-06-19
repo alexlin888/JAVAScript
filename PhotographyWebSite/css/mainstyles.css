@@ -1,0 +1,47 @@
+h1 {
+  color: burlywood;
+  background-color: white;
+  font: bold 40px/50px Verdana,Sans-serif;
+}
+
+h2{
+  color: cornflowerblue;
+  background-color: white;
+  font: bold 30px/34px Georgia, serif;
+}
+
+h3{
+  color: Gray;
+  background-color: white;  
+  font: bold 26px/28px Arial, Sans-serif;
+}
+
+h4{
+  color: chocolate;
+  background-color: white;
+  font: bold 30px/34px Georgia, serif;
+}
+
+p{
+	  color: blue;
+	  font: bold 20px/30px Georgia, serif;
+}
+
+.hidden {
+    display: none;
+}
+
+
+div{
+	  color: black;
+	  font: bold 16px/18px Georgia, serif;
+  
+}
+
+.imgsample{
+	margin: auto;
+    width: 65%;
+}
+
+
+

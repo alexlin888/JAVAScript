@@ -1,0 +1,20 @@
+{
+  "package":[
+    {"uid":"1000", "name":"Beautiful photography Package 1","style":"Outdoor Fashion","location":"City Hall","include":"2 Hours of Timeless Photojournalistic Photography<br>A USB Key and A Photo Album", "price":"100"},
+    {"uid":"2000", "name":"Beautiful photography Package 2","style":"Outdoor Family","location":"FDR Park","include":"2 Hours of Timeless Photojournalistic Photography<br>A USB Key and A Photo Album", "price":"200"},
+	{"uid":"3000", "name":"Beautiful photography Package 3","style":"Outdoor Couple","location":"Fairmont Park","include":"2 Hours of Timeless Photojournalistic Photography<br>A USB Key and A Photo Album", "price":"300"}
+  ],
+  
+  "album":[
+	{"uid":"1", "name":"Print Package 1", "include": "One 8 X 10 Inc Album", "price":"30"},
+	{"uid":"2", "name":"Print Package 2", "include": "One 8 X 10 Inc Album and One Poster","price":"50"},
+	{"uid":"3", "name":"Print Package 3", "include": "One 8 X 10 Inc Album and Two Poster","price":"70"}
+  ],
+  
+  "custom":[
+    {"uid":"110", "name":"Custom 1","style":"Outdoor Fashion","location":"City Hall","include":"", "price":"70"},
+    {"uid":"120", "name":"Custom 2","style":"Outdoor Family","location":"FDR Park","include":"", "price":"130"},
+	{"uid":"130", "name":"Custom 3","style":"Outdoor Couple","location":"Fairmont Park","include":"", "price":"270"}
+  ]
+  
+}
